@@ -1228,7 +1228,7 @@
     (property "Reference" "U4" (id 0) (at 296.6594 147.32 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "W25Q32JVSS" (id 1) (at 296.6594 149.86 0)
+    (property "Value" "W25Q128" (id 1) (at 296.6594 149.86 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" (id 2) (at 294.64 160.02 0)
@@ -1625,7 +1625,7 @@
       (reference "U3") (unit 1) (value "HT7533") (footprint "Package_TO_SOT_SMD:SOT-89-3")
     )
     (path "/758315a0-9b35-4bbd-943c-2b2f72fcca0b"
-      (reference "U4") (unit 1) (value "W25Q32JVSS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
+      (reference "U4") (unit 1) (value "W25Q128") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
     (path "/27be479a-ca38-4d90-b633-9076538762ca"
       (reference "Y1") (unit 1) (value "12MHz") (footprint "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm")
