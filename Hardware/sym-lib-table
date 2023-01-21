@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "25Q64")(type "Legacy")(uri "${KIPRJMOD}/25Q64/25Q64.lib")(options "")(descr ""))
+)
