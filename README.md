@@ -7,10 +7,11 @@ Two projects of mine, a [breakout board](https://github.com/NNNILabs/AD4630-Wide
 [under construction]
 ## List of Files
 - Hardware: KiCAD PCB files, 3D models
+![PCB Front](https://github.com/NNNILabs/RP2040-Module/blob/main/Resources/board.PNG)
 - Resources: Pinout diagram
 ## Application Examples
 [under construction]
 ## Notes
-- Projects like the [RP2040 Stamp](https://shop.pimoroni.com/products/rp2040-stamp?variant=39567567028307) exist, but they lack some of the features I need. 
+- Projects like the [RP2040 Stamp](https://shop.pimoroni.com/products/rp2040-stamp?variant=39567567028307) and the [RP2040 ISP Stamp](https://www.osborneee.com/rp2040-isp-stamp/) exist, but they lack some of the features I need. 
 ## Links
 [under construction]
